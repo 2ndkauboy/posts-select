@@ -14,8 +14,7 @@
 		"packages-update": "wp-scripts packages-update"
 	},
 	"devDependencies": {
-		"@wordpress/scripts": "^12.5.0",
-		"classnames": "^2.2.6",
-		"node-sass": "^5.0.0"
+		"@wordpress/babel-plugin-makepot": "^3.9.0",
+		"@wordpress/scripts": "^12.5.0"
 	}
 }
