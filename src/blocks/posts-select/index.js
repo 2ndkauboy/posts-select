@@ -92,6 +92,7 @@ registerBlockType( 'slug/posts-select', {
 	attributes: {
 		selectedPosts: {
 			type: 'array',
+			default: [],
 		}
 	},
 	edit: withSelect( ( select ) => {
